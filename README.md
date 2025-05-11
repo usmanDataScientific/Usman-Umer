@@ -14,5 +14,5 @@ I'm a Full-Stack Web Developer specializing in Angular 17 and .NET Framework (C#
 - Deployment: Netlify, GitHub Pages
 
 ## 📫 Contact Me
-- Email: youremail@example.com
+- Email: usman0manna@gmail.com
 - LinkedIn: [Your LinkedIn](www.linkedin.com/in/usman-umer786)
